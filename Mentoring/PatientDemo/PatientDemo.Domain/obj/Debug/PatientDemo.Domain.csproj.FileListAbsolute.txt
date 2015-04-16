@@ -1,0 +1,5 @@
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.dll
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.dll
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.pdb

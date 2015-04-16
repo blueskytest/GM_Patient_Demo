@@ -1,0 +1,8 @@
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.exe.config
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.exe
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.pdb
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.Domain.dll
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.exe
+C:\Users\greg mckenna\Documents\GitHub\PatientDemo\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.pdb
