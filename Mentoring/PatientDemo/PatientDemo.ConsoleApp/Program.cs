@@ -11,30 +11,14 @@ namespace PatientDemo.ConsoleApp
 	{
 		static void Main(string[] args)
 		{
-			Patient myPatient = new Patient();
+			var myPatient = new Patient();
+			myPatient.gender = (Patient.Gender)1;
 			myPatient.Surname = "Smith";
 			myPatient.Forename = "John";
-			myPatient.Sex = "Male";
+			myPatient.Height = 1.75f;
+				myPatient.Weight = 75.00f;
 
-
-			Console.WriteLine("Name: " + myPatient.Forename + " " + myPatient.Surname);
-			Console.WriteLine("Sex: " + myPatient.Sex);
-
-			Console.Write("What is patient height (cm)? ");
-			String heightAsString = Console.ReadLine();
-			int Height = int.Parse(heightAsString);
-
-
-			Console.Write("What is patient weight (kg)? ");
-			String weightAsString = Console.ReadLine();
-			int Weight = int.Parse(weightAsString);
-
-
-			var BMI = Weight / (Height * Height);
-
-			Console.Write("Patient BMI = " + BMI.ToString() + "%");
-
-
+			Console.WriteLine(myPatient.ToString());
 			Console.ReadKey();
 		}
 	}
